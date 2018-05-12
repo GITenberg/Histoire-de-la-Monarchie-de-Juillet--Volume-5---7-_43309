@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40467
     wikipedia: http://fr.wikipedia.org/wiki/Paul_Thureau-Dangin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43309#Histoire-de-la-Monarchie-de-Juillet--Volume-5---7-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2013-07-26'
 gutenberg_type: Text
